@@ -1,4 +1,4 @@
-### Hi there 👋
+👋 ### Hi there
  - Taeuk Ki, Landscape Architecture who can code
 
 <!--
