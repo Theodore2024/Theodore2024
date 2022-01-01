@@ -1,5 +1,5 @@
 ### About me
- - Taeuk Ki, Landscape Architecture who can code
+ - Taeuk Ki, Landscape Architect who can code
 
 
 ### Interested in
