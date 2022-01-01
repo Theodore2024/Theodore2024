@@ -1,6 +1,5 @@
 ### Hi there 👋
- - Taeuk Ki
-Landscape Architecture who can code
+ - Taeuk Ki, Landscape Architecture who can code
 
 <!--
 **KiTaeUK/KiTaeUk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
