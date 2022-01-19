@@ -1,9 +1,9 @@
 ### About me
- - Taeuk Ki, Landscape Architect who can code
+ - Taeuk Ki
 
 
 ### Interested in
- - app dev : iOS / Android 
+ - ios dev
 <!--
 **KiTaeUK/KiTaeUk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
