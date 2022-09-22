@@ -1,9 +1,8 @@
-## Hello👋
+### Hello👋
 
 ### About me
- - Taeuk Ki
- 
-Hello, I'm interested in iOS
+Hello, my name is Taeuk Ki.
+And I'm interested in iOS dev
 
 * * *
    
