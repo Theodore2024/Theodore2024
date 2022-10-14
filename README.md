@@ -2,7 +2,7 @@
 
 ### - About me
 Hello, my name is Taeuk Ki.
-And I'm interested in iOS dev
+
 
 * * *
    
