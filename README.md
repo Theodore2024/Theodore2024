@@ -12,7 +12,7 @@
 
 ### 😄 About me
 Hello, my name is Taeuk Ki   
-I Develop applications with `SwiftUI` and `UIKit`
+I develop applications with `SwiftUI` and `UIKit`
 
 * * *
 <!--
