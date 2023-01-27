@@ -10,9 +10,9 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 </div>
 
-### - About me
-Hello, my name is Taeuk Ki.
-
+### 😄 About me
+Hello, my name is Taeuk Ki   
+I Develop applications with `SwiftUI` and `UIKit`
 
 * * *
 <!--
