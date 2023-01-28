@@ -12,14 +12,25 @@
 
 ### 😄 About me
 Hello, my name is Taeuk Ki   
-I develop applications with `SwiftUI` and `UIKit`
+I develop applications with `SwiftUI` and `UIKit`<br/><br/>
 
-* * *
-<!--
-   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiTaeUk&&show_icons=true&theme=dark)
+<details markdown="1">
+<summary>  [Repository Link] </summary>
+<div><h5> Project </h5>
+ - 멋쟁이 사자처럼 App School
+ 
+<div><h5> Study </h5>
+ - Swift Algorithm
 
---!>
+
+</details>
+
+<br/><br/>
+
+<div align="center">
+<img style="height: 150px; width: auto%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiTaeUk&langs_count=5&theme=tokyonight" />
+<img style="height: 150px; width: auto%;" class="img" src="https://github-readme-stats.vercel.app/api?username=KiTaeUk&&show_icons=true&theme=tokyonight" />
+</div>
 
 <!--
 **KiTaeUK/KiTaeUk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
