@@ -20,24 +20,23 @@ I love developing applications with `UIKit` and `SwiftUI`<br/><br/>
 <div><h4> Projects </h4>
  - 'GukbapMinister' iOS Application :  <A href="https://github.com/APPSCHOOL1-REPO/finalproject-goodvibe">[repo]</A><br/>  
  - 'Landscape for Everyone' Android Application : <A href="https://github.com/KiTaeUk/app_Landscape">[repo]</A><br/>
-<br/>
  
  <div><h4> Side Projects </h4>
  - 'BeBlank' iOS Application : <A href="https://github.com/KiTaeUk/BeBlank">[repo]</A><br/>
- <br/>
 
 <div><h4> Like Lion App School </h4>
 - Hackthon Project : <A href="https://github.com/APPSCHOOL1-REPO/20230105-hackathon-lab10">[repo]</A><br/>   
 - Shopping Service Project : <A href="https://github.com/APPSCHOOL1-REPO/big-project-a-customer-ios">[repo]</A><br/>   
 - MVP Project : <A href="https://github.com/APPSCHOOL1-REPO/mvp-20221216-lab12">[repo]</A><br/>   
-<br/>    
  
 <div><h4> Study </h4>
- - Swfit for Coding Test : <A href="https://github.com/KiTaeUk/Swift-Coding-Test>[repo]</A><br/>   
  - UIKit Basic Demo : <A href="https://github.com/KiTaeUk/iOS-Basic-Demo">[repo]</A><br/>   
+ - Swfit for Coding Test : <A href="https://github.com/KiTaeUk/Swift-Coding-Test">[repo]</A><br/>   
 
 </details>
  
+  
+  
 <!--
 <div align="center">
 <img style="height: 150px; width: auto%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiTaeUk&langs_count=5&theme=tokyonight" />
