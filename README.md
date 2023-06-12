@@ -10,14 +10,24 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 </div>
 
-### 😄 About me
-Hello, my name is Taeuk Ki   
-I develop applications with `SwiftUI` and `UIKit`<br/><br/>
+### About me
+Hi! my name is Taeuk Ki.   
+I love developing applications with `UIKit` and `SwiftUI`<br/><br/>
 
+|프로젝트명|개요|링크|
+|---|------|---|
+|테스트1|테스트2|테스트3|
+### Repository
 <details markdown="1">
 <summary>  [Repository Link] </summary>
-<div><h5> Project </h5>
- - 멋쟁이 사자처럼 App School
+<div><h5> Projects </h5>
+ - 'GukbapMinister' iOS Application : <https://github.com/APPSCHOOL1-REPO/finalproject-goodvibe>
+ - 'Landscaping for Everyone' Android Application : <https://github.com/KiTaeUk/app_Landscape>
+
+<div><h5> Like Lion App School </h5>
+- Hackthon Project : <https://github.com/APPSCHOOL1-REPO/20230105-hackathon-lab10>
+- Shopping Service Project : <https://github.com/APPSCHOOL1-REPO/big-project-a-customer-ios>
+- MVP Project : <https://github.com/APPSCHOOL1-REPO/mvp-20221216-lab12>
  
 <div><h5> Study </h5>
  - Swift Algorithm
