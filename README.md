@@ -31,7 +31,7 @@ I love developing applications with `UIKit` and `SwiftUI`<br/><br/>
  
 <div><h4> Study </h4>
  - UIKit Basic Demo : <A href="https://github.com/KiTaeUk/iOS-Basic-Demo">[repo]</A><br/>   
- - Swfit for Coding Test : <A href="https://github.com/KiTaeUk/Swift-Coding-Test">[repo]</A><br/>   
+ - Swift for Coding Test : <A href="https://github.com/KiTaeUk/Swift-Coding-Test">[repo]</A><br/>   
 
 </details>
  
