@@ -20,9 +20,11 @@ I love developing applications with `UIKit` and `SwiftUI`<br/><br/>
 <div><h4> Projects </h4>
  - 'GukbapMinister' iOS Application :  <A href="https://github.com/APPSCHOOL1-REPO/finalproject-goodvibe">[repo]</A><br/>  
  - 'Landscape for Everyone' Android Application : <A href="https://github.com/KiTaeUk/app_Landscape">[repo]</A><br/>
- 
-### <div><h4> Side Projects </h4>
-### - 'BeBlank' iOS Application : <A href="https://github.com/KiTaeUk/BeBlank">[repo]</A><br/>
+
+ <!--
+<div><h4> Side Projects </h4>
+- 'BeBlank' iOS Application : <A href="https://github.com/KiTaeUk/BeBlank">[repo]</A><br/>
+-->
 
 <div><h4> Like Lion App School </h4>
 - Hackthon Project : <A href="https://github.com/APPSCHOOL1-REPO/20230105-hackathon-lab10">[repo]</A><br/>   
