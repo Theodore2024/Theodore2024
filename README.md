@@ -9,23 +9,28 @@
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 </div>
-
+ 
+ <!--
 ### About me
 Hi! my name is Taeuk Ki.   
 I love developing applications with `UIKit` and `SwiftUI`<br/><br/>
+-->
 
+  <!--
 ### Repository
 <details markdown="1">
 <summary>  [Repository Link] </summary>
 <div><h4> Projects </h4>
  - 'GukbapMinister' iOS Application :  <A href="https://github.com/APPSCHOOL1-REPO/finalproject-goodvibe">[repo]</A><br/>  
  - 'Landscape for Everyone' Android Application : <A href="https://github.com/KiTaeUk/app_Landscape">[repo]</A><br/>
+-->
 
  <!--
 <div><h4> Side Projects </h4>
 - 'BeBlank' iOS Application : <A href="https://github.com/KiTaeUk/BeBlank">[repo]</A><br/>
 -->
 
+ <!--
 <div><h4> Like Lion App School </h4>
 - Hackthon Project : <A href="https://github.com/APPSCHOOL1-REPO/20230105-hackathon-lab10">[repo]</A><br/>   
 - Shopping Service Project : <A href="https://github.com/APPSCHOOL1-REPO/big-project-a-customer-ios">[repo]</A><br/>   
@@ -36,7 +41,7 @@ I love developing applications with `UIKit` and `SwiftUI`<br/><br/>
  - Swift for Coding Test : <A href="https://github.com/KiTaeUk/Swift-Coding-Test">[repo]</A><br/>   
 
 </details>
- 
+ -->
   
   
 <!--
