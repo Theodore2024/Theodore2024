@@ -1,3 +1,4 @@
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:14C9FF,85:015EEA&height=225&section=header&text=Taeuk%20KI&fontSize=35&&animation=fadeIn&fontAlignY=38&desc=iOS%20Developer&descAlignY=51&descAlign=50&fontColor=FFFFFF)
 
 
@@ -9,12 +10,12 @@
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 </div>
- 
- <!--
-### About me
-Hi! my name is Taeuk Ki.   
-I love developing applications with `UIKit` and `SwiftUI`<br/><br/>
 -->
+
+ 
+Hi! my name is Taeuk Ki.   
+I am a Software Developer.<br/><br/>
+
 
   <!--
 ### Repository
